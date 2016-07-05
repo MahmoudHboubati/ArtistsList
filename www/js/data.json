@@ -1,0 +1,114 @@
+{
+  "calendar": [{
+    "weekday": "Monday",
+    "title": "Art in Full Color",
+    "description": "The first day of CAC events and exhibits is kicked off under the theme of Art in Full Color From a demonstration in graffiti art on a wall of the Rousseau Room, to the exhibit of colorful glazed modern glassware in the Dover Hall, Art in Full Color will get CAC started in full swing!",
+    "schedule": [{
+      "time": "9:30-10:30am",
+      "shortname": "AN",
+      "artist": "LaVonne L. LaRue",
+      "room": "Elizabeth Hall",
+      "description": "Watch LaVonne L. LaRue, a Chicago graffiti artist share her love and skill of mural art on Monday's schedule, as she starts the painting of a 20-foot high wall in the Rousseau Room of Hotel Contempo, which will be finished at the end of the conference. Make sure to show up a bit early, as this session will be standing-room only.",
+      "title": "Art in Unexpected Places",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbas_Al_Noory.jpg/220px-Abbas_Al_Noory.jpg"
+    }, {
+      "time": "11:00am-1pm",
+      "shortname": "AN",
+      "name": "Hassum Harrod",
+      "room": "Victoria Hall",
+      "description": "Drawing and painting flowers may seem like a first-year art student's assignment, but Hassum Harrod brings depth, shadows, light, and color to new heights with his unique technique of painting on canvas with ceramic glaze. This session is sure to be a hit with mixed media buffs.",
+      "title": "Art in Full Bloom",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbas_Al_Noory.jpg/220px-Abbas_Al_Noory.jpg"
+    }, {
+      "time": "2:30-4:00pm",
+      "room": "Dennison Hall",
+      "description": "Grab your pencils, charcoal, acrylics, watercolors, or whatever painting tools suit your fancy, and participate in the capturing of various still life settings that are staged all around Dennison Hall. You won't believe the wealth and depth of choices.",
+      "title": "Still Life"
+    }]
+  }, {
+    "weekday": "Tuesday",
+    "title": "Water in Art",
+    "description": "Water in Art is the theme for the second day, as art students from around the world gather at the Fountain of Intrigue in the gardens of Hotel Contempo to create ice sculptures, and art lecturers discuss the use of water as an art material, and water as an art subject.",
+    "schedule": [{
+      "time": "9:30-10:30am",
+      "shortname": "PY",
+      "artist": "Jennifer Jerome",
+      "room": "Elizabeth Hall",
+      "description": "Jennifer Jerome, a native of New Orleans, whose work has centered around abstract images that depict flooding and rebuilding, will talk about how the floods inspired her artistically, and how, despite the sadness of devastation and lives lost, her work also depicts the hope and togetherness of a community that has persevered.",
+      "title": "Water in Art Kickoff Session",
+      "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+    }, {
+      "time": "10:30am-1pm",
+      "room": "Fountain of Intrigue",
+      "description": "Get on your mittens and earmuffs, and join your fellow artists at the Fountain of Intrigue, in the Hotel Contempo gardens, where the ambient temperature has been turned down to allow the sculpting of ice into the most mysterious and beautiful of shapes. Various masters will share their secrets for chiseling ice into a shape that their imagination has envisioned.",
+      "title": "Ice Sculptures"
+    }, {
+      "time": "2:30-4:00pm",
+      "shortname": "PY",
+      "artist": "Hillary Hewitt Goldwynn-Post",
+      "room": "Dennison Hall",
+      "description": "Hilary Goldywynn Post has been inspiring deep sea divers to paint what they experience under water, since she began diving at the early age of 14. Not only does she explain texture, color, and tools, but she also explains methods for capturing your under sea explorations in your mind for future expulsion onto canvas. And, even if snorkeling is as far under water as you're willing to go, Hilary's techniques will work just as well for you.",
+      "title": "Deep Sea Wonders",
+      "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+    }]
+  }, {
+    "weekday": "Wednesday",
+    "schedule": [{
+      "time": "9:30 to 10:30 am",
+      "shortname": "PY",
+      "artist": "Barot Bellingham",
+      "room": "Elizabeth Hall",
+      "description": "Barot Bellingham's new collection is pieced together from seemingly unrelated individual works of varying topic. From portraits to landscapes to abstract, Barot does it all, and does it all well. The only unifying factor is the excellence in form, technique, color, and balance that exudes from each and every individual work in The Un-Collection. Meet Barot, and his undeniably original collection of art, and be forever enchanted.",
+      "title": "The Un-Collection",
+      "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+    }, {
+      "time": "10:45 to 12:00 pm",
+      "shortname": "PY",
+      "artist": "Xhou Ta",
+      "room": "Dennison Hall",
+      "description": "Get a glimpse at the rare offerings in Xhou's exhibit, ranging from an exquisite skyscraper painted on a grain of rice, to a miniature sculpture of an oak tree filled with detailed animals, the size of a thimble. Items are shown on a large screen, using Xhou's patented rear-projection device that magnifies the image to reveal incredible detail. Beyond the Naked Eye is a fantastic exhibit that blends art and science in a most magical way.",
+      "title": "Beyond the Naked Eye",
+      "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+    }]
+  }, {
+    "weekday": "Thursday",
+    "schedule": [{
+      "time": "09:30 to 10:30 am",
+      "shortname": "AN",
+      "artist": "Hassum Harrod",
+      "room": "Elizabeth Hall",
+      "description": "Hassum's inherent ability to create color palettes that illuminate an image and allure an audience, has drawn praise from traditionalists as well as modern artists - no small feat in today's diverse art world. His master's thesis at San Francisco Art Academy is entitled \"Color Upon Color â€“ The Mixing and Reinventing of Color.\" It is this thesis that prompted Hillford & Bilken to publish his solo-authored book on color, that will be used in undergraduate art programs throughout the world starting next year.",
+      "title": "The Use and Absence of Color in Modern Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbas_Al_Noory.jpg/220px-Abbas_Al_Noory.jpg"
+    }, {
+      "time": "10:30 to 11:30 am",
+      "shortname": "AN",
+      "artist": "Constance Olivia Smith",
+      "room": "Victoria Hall",
+      "description": "In the Art of Salvaging, Olivia will share her talent for finding and selecting scrap materials, as well as the philosophy behind several of her more celebrated works of art. If you're interested in recycling and mixed media, this session will include a lively discussion of both, from the woman who Art International Digest calls the \"foremost queen of scrap art.\"",
+      "title": "The Art of Salvaging",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbas_Al_Noory.jpg/220px-Abbas_Al_Noory.jpg"
+    }, {
+      "time": "1:30 to 2:30",
+      "shortname": "PY",
+      "artist": "Riley Rudolph Rewington",
+      "room": "Dennison Hall",
+      "description": "The leader of the MMA artistic movement in his hometown of Portland, Riley Rudolph Rewington draws a crowd wherever he goes. Mixing street performance, video, music, and traditional art, Riley has created some of the most unique and deeply poignant abstract works of his generation. Join Riley in Dennison Hall for an intimate discussion on The Art of Abstract, in which he shares his philosophies about modern abstract art, and critiques some of this own work with complete candor and a healthy dose of personality.",
+      "title": "The Art of Abstract",
+      "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+    }]
+  }],
+  "artists": [{
+    "name": "Abbas al-Noury",
+    "shortname": "AN",
+    "reknown": "Abu kasem",
+    "bio": "Abbas al-Noury (Arabic: عباس النوري‎‎; born 8 December 1952 in Damascus, Syria) is a Syrian television actor, known for his role in the Syrian series Bab al-Hara 1 and 2, and for being the leading Syrian actor of Al Ijtiah (The Invasion) TV series about the atrocities in Jenin camp in Palestine,",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbas_Al_Noory.jpg/220px-Abbas_Al_Noory.jpg"
+  }, {
+    "name": "Baseem Yakhour",
+    "shortname": "PY",
+    "reknown": "Abu Gaaud",
+    "bio": "Baseem Yakhour graduated from Higher Institute of Dramatic Art in 1993 and joined the Syrian actor's syndicate on February 16, 1999. Since 1993, Yakhour has acted in many television series, stage productions and theater. He was also a television presenter for a short time for a show called 'Charisma'.",
+    "imageUrl": "https://i.ytimg.com/vi/HyY1WmAgZMA/hqdefault.jpg"
+  }]
+}
